@@ -1,0 +1,9 @@
+header{
+    background-color: #191825;
+    color: #FFFFFF;
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+
+}
